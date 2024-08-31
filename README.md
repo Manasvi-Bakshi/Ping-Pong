@@ -29,9 +29,9 @@ Welcome to the Ping Pong Game! This is a classic arcade-style game where two pla
    - The first player to miss a ball will give a point to the opponent.
    - The game will reset the ball to the center after each point, with a randomized direction.
 
-## Output Images
+## Output
 
-Here are some images showcasing the gameplay:
+Here is an image showcasing the gameplay:
 ![image](https://github.com/user-attachments/assets/87c81fd0-0995-4caf-a3ad-c4541bcdf520)
 
 

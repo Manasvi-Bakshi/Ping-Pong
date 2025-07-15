@@ -23,11 +23,7 @@ Welcome to the Ping Pong Game! This is a classic arcade-style game where two pla
      - Right Ping: Use the `UP` and `DOWN` arrow keys to move the ping.
    - **2 Player Mode**:
      - Right Ping: Use the `UP` and `DOWN` arrow keys to move the ping.
-     - Left Ping: Use the `W` (up) and `S` (down) keys to move the ping.
-4. **Gameplay**:
-   - The ball will bounce off the pings and walls. Score points by making the ball pass your opponent’s ping.
-   - The first player to miss a ball will give a point to the opponent.
-   - The game will reset the ball to the center after each point, with a randomized direction.
+     - Left Ping: Use the `W` (up) and `S` (down) keys to move the ping
 
 ## Output
 
